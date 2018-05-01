@@ -1,0 +1,42 @@
+.container input[type=text]{
+  	border-radius: 5px;
+  	border: 1px  cyan;
+  	outline: none;
+  	color: cyan;
+  	padding: 5px 8px 5px 8px;
+  	box-shadow: inset 1px 1px 4px cyan;
+  	background: black;
+  	width:50%;
+}
+h1{
+	text-align: center;
+	color:cyan;
+}
+body{
+	background: url(back.jpg) no-repeat fixed;
+    background-size: 100% 100%; 
+}
+td{
+	border:0px;
+}
+.table{
+	border-radius: 5px;
+  	border: 1px  cyan;
+  	outline: none;
+  	color: cyan;
+  	padding: 5px 8px 5px 8px;
+  	box-shadow: inset 1px 1px 4px cyan;
+  	background: black;
+  	width:25%;
+}
+.tmbl{
+	border-radius: 5px;
+	background-color: cyan;
+    border: 1;
+    border-color: grey;
+    color: black;
+    padding: 5px 4px ;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+}
